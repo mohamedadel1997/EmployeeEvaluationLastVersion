@@ -1,0 +1,60 @@
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\Learn Path\01 - Evaluation Project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\M-Adel\Downloads\Employee-Evaluation-master\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\Learn Path\01 - Evaluation Project\EvalDotNetNewVersion\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\Evaluation project\EvaluationProjectDotNet\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
